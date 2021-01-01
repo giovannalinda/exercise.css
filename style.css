@@ -5,10 +5,11 @@ body {
 h1 {
   color: purple;
   text-align: left;
+  font-family: averta Demo PE;
 }
 
 p {
-  color: green;
-  font-family: verdana;
+  color: black;
+  font-family: averta Demo PE;
   font-size: 20px;
 }
